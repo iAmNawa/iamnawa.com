@@ -1,3 +1,16 @@
+body {
+  margin-left: 0px;
+}
 .brass {
   font-size: 50px;
+}
+
+footer {
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  min-height: 100px;
 }
