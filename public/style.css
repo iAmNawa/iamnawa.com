@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
 .full {
     background: url('images/grassy.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -24,15 +29,12 @@ body {
 }
 
 .imgBORD {
-  
+
 }
 
 footer {
-  color: white;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
   background-color: black;
   text-align: center;
-  min-height: 100px;
+  min-height: 50px;
+  color: white;
 }
