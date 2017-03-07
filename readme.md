@@ -1,3 +1,3 @@
 #iamnawa.com
 
-Not sure what will be here yet, but something coming soon.
+Going to put a virtual-dom hyperscript site up here.
